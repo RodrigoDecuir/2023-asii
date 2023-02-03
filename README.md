@@ -4,8 +4,8 @@ Notas
 Instructores:
 --------------
 
-León Felipe Villalobos Sánchez 
-Ariadna Margarita Vargas Bautista 
+* León Felipe Villalobos Sánchez 
+* Ariadna Margarita Vargas Bautista 
 
 Temario:
 ---------
