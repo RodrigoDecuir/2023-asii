@@ -17,5 +17,3 @@ Temario:
 * Números Racionales
 * Números Complejos
 * Polinomios y ecuaciones polinomiales
-
-
