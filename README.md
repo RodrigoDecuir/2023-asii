@@ -1,4 +1,4 @@
-Notas y tareas ~ Álgebra Superior II
+Curso completo ~ Álgebra Superior II
 ===========================
 
 Instructores:
